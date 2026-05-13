@@ -1,6 +1,6 @@
-package Math;
+package Math_Numbers;
 
-public class Factorial {
+public class Fibonacci {
     public static void main(String[] args) {
 
     }

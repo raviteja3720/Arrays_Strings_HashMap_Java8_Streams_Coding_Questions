@@ -1,6 +1,6 @@
-package Math;
+package Math_Numbers;
 
-public class PrimeNumber {
+public class Factorial {
     public static void main(String[] args) {
 
     }

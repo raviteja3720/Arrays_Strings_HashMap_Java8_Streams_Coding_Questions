@@ -1,6 +1,6 @@
-package Math;
+package Math_Numbers;
 
-public class Fibonacci {
+public class PrimeNumber {
     public static void main(String[] args) {
 
     }
