@@ -1,6 +1,6 @@
 package Strings;
 
-public class LongestWordinListOfStrings {
+public class LongestWordInSentence {
     public static void main(String[] args) {
 
     }

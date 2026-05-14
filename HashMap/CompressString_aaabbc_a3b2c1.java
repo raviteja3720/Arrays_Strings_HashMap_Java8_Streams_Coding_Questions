@@ -2,7 +2,7 @@ package HashMap;
 
 import java.util.HashMap;
 
-public class aaabbc_a3b2c1 {
+public class CompressString_aaabbc_a3b2c1 {
     public static void main(String[] args) {
         String s = "aaabbcacb"; //make it a3b2c1
         StringBuilder builder = new StringBuilder();
