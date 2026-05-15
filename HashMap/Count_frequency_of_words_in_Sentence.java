@@ -2,7 +2,7 @@ package HashMap;
 
 import java.util.*;
 
-public class Count_Frequency_of_words_in_Sentence {
+public class Count_frequency_of_words_in_Sentence {
     public static void main(String[] args) {
 
         String text = "Java is fun and Java is a powerful";

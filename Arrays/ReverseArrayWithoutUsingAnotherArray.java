@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class ReverseArray {
+public class ReverseArrayWithoutUsingAnotherArray {
     public static void main(String[] args) {
         int[] arr = {10,7, 20, 5, 0, 13, 8};
         //

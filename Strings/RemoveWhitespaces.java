@@ -1,6 +1,6 @@
 package Strings;
 
-public class removeWhitespaces {
+public class RemoveWhitespaces {
     public static void main(String[] args) {
         String s="Ra vi tej a";
         StringBuilder result=new StringBuilder();
