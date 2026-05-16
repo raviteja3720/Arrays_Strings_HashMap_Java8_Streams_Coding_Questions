@@ -23,12 +23,9 @@ public class Anagram {
             List<Character> l2 = new ArrayList<>();
             for (int i = 0; i < s2.length(); i++) {
                 char c = s1.charAt(i);
-                l1.add(c);
+                l2.add(c);
             }
-            if (l1.equals(l2)) {
-                return true;
-            }
+            return l1.equals(l2);
         }
-        return false;
     }
 }
